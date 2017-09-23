@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginSharedPrefTest</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="Logout">Logout</string>
+</resources>
