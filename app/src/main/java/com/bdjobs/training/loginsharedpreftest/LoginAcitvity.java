@@ -38,6 +38,9 @@ public class LoginAcitvity extends AppCompatActivity {
     String baseUrl = "http://my.bdjobs.com/apps/mybdjobs/apps_agent_log.asp";
     static final String TAG = "Login";
 
+    /*username = mybdjobs
+    password = mybdjobs12*/
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
